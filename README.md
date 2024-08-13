@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**lionbee/lionbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Leon!
 
-Here are some ideas to get you started:
+As an innovative technical leader with over 20 years in software development. I've built and managed high-energy teams that consistently deliver exceptional business results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+
+- Being more active in the technical community
+- Spending time daily staying technically sharp
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** https://www.linkedin.com/in/leonbezuidenhout/
+- **Email:** hello@lionbee.dev
